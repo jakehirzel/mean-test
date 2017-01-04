@@ -1,0 +1,25 @@
+{
+  "name": "mean-test",
+  "version": "1.0.0",
+  "description": "Test app on the MEAN stack.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakehirzel/mean-test.git"
+  },
+  "author": "Jake Hirzel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakehirzel/mean-test/issues"
+  },
+  "homepage": "https://github.com/jakehirzel/mean-test#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.7.6"
+  }
+}
